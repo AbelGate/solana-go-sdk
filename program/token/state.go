@@ -164,8 +164,8 @@ func TokenAccountFromData(data []byte) (TokenAccount, error) {
 }
 
 func DeserializeTokenAccount(data []byte, accountOwner common.PublicKey) (TokenAccount, error) {
-	if accountOwner != common.TokenProgramID {
-		return TokenAccount{}, ErrInvalidAccountOwner
-	}
+	// if accountOwner != common.TokenProgramID {
+	// 	return TokenAccount{}, ErrInvalidAccountOwner
+	// }
 	return TokenAccountFromData(data)
 }
