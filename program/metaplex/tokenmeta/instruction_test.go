@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/pkg/pointer"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/AbelGate/solana-go-sdk/common"
+	"github.com/AbelGate/solana-go-sdk/pkg/pointer"
+	"github.com/AbelGate/solana-go-sdk/types"
 	"github.com/near/borsh-go"
 	"github.com/stretchr/testify/assert"
 )

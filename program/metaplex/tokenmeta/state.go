@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/blocto/solana-go-sdk/common"
+	"github.com/AbelGate/solana-go-sdk/common"
 	"github.com/near/borsh-go"
 )
 

@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/AbelGate/solana-go-sdk/common"
+	"github.com/AbelGate/solana-go-sdk/types"
 )
 
 func TestBuildMemo(t *testing.T) {

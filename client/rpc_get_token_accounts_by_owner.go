@@ -3,9 +3,9 @@ package client
 import (
 	"context"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/program/token"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/AbelGate/solana-go-sdk/common"
+	"github.com/AbelGate/solana-go-sdk/program/token"
+	"github.com/AbelGate/solana-go-sdk/rpc"
 )
 
 type TokenAccount struct {

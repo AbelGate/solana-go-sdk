@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/internal/client_test"
-	"github.com/blocto/solana-go-sdk/pkg/pointer"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/AbelGate/solana-go-sdk/internal/client_test"
+	"github.com/AbelGate/solana-go-sdk/pkg/pointer"
+	"github.com/AbelGate/solana-go-sdk/rpc"
 )
 
 func TestClient_GetSignatureStatus(t *testing.T) {

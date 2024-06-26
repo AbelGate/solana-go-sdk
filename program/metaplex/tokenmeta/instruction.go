@@ -1,8 +1,8 @@
 package tokenmeta
 
 import (
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/AbelGate/solana-go-sdk/common"
+	"github.com/AbelGate/solana-go-sdk/types"
 	"github.com/near/borsh-go"
 )
 
